@@ -1,0 +1,337 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "vachan": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/",
+        "docId": "Introduction"
+      },
+      {
+        "type": "link",
+        "label": "websiteNavigation",
+        "href": "/websiteNavigation",
+        "docId": "websiteNavigation"
+      },
+      {
+        "type": "category",
+        "label": "Features",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Read Bible",
+            "href": "/readBible",
+            "docId": "readBible"
+          },
+          {
+            "type": "link",
+            "label": "Audio Bible",
+            "href": "/audioBible",
+            "docId": "audioBible"
+          },
+          {
+            "type": "category",
+            "label": "Study Tools",
+            "collapsed": false,
+            "items": [
+              {
+                "type": "link",
+                "label": "commentary",
+                "href": "/commentary",
+                "docId": "commentary"
+              },
+              {
+                "type": "link",
+                "label": "Parallel Bible",
+                "href": "/parallelBible",
+                "docId": "parallelBible"
+              },
+              {
+                "type": "link",
+                "label": "Audio",
+                "href": "/audio",
+                "docId": "audio"
+              },
+              {
+                "type": "link",
+                "label": "Sign Language Bible",
+                "href": "/signLanguageBible",
+                "docId": "signLanguageBible"
+              },
+              {
+                "type": "category",
+                "label": "More Tools",
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Dictionary",
+                    "href": "/dictionary",
+                    "docId": "dictionary"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Videos",
+                    "href": "/videos",
+                    "docId": "videos"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Search Bible",
+                    "href": "/searchBible",
+                    "docId": "searchBible"
+                  },
+                  {
+                    "type": "link",
+                    "label": "Reading Plans",
+                    "href": "/readingPlans",
+                    "docId": "readingPlans"
+                  },
+                  {
+                    "type": "link",
+                    "label": "History",
+                    "href": "/history",
+                    "docId": "history"
+                  }
+                ],
+                "collapsible": true
+              }
+            ],
+            "collapsible": true
+          },
+          {
+            "type": "category",
+            "label": "Quick Access",
+            "collapsed": false,
+            "items": [
+              {
+                "type": "link",
+                "label": "Bible Stories",
+                "href": "/bibleStories",
+                "docId": "bibleStories"
+              },
+              {
+                "type": "link",
+                "label": "Compare",
+                "href": "/compare",
+                "docId": "compare"
+              }
+            ],
+            "collapsible": true
+          }
+        ],
+        "collapsible": true,
+        "href": "/category/features"
+      },
+      {
+        "type": "category",
+        "label": "User Login Features",
+        "items": [
+          {
+            "type": "link",
+            "label": "Sign Up",
+            "href": "/signUp",
+            "docId": "signUp"
+          },
+          {
+            "type": "link",
+            "label": "Sign In",
+            "href": "/signIn",
+            "docId": "signIn"
+          },
+          {
+            "type": "link",
+            "label": "Bookmarks",
+            "href": "/bookmarks",
+            "docId": "bookmarks"
+          },
+          {
+            "type": "link",
+            "label": "Highlights",
+            "href": "/highlights",
+            "docId": "highlights"
+          },
+          {
+            "type": "link",
+            "label": "Notes",
+            "href": "/notes",
+            "docId": "notes"
+          },
+          {
+            "type": "link",
+            "label": "Sign Out",
+            "href": "/signOut",
+            "docId": "signOut"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true,
+        "href": "/category/user-login-features"
+      },
+      {
+        "type": "link",
+        "label": "About",
+        "href": "/about",
+        "docId": "about"
+      }
+    ]
+  },
+  "docs": {
+    "about": {
+      "id": "about",
+      "title": "About",
+      "description": "Contact the vachan Online team using the email address provided",
+      "sidebar": "vachan"
+    },
+    "audio": {
+      "id": "audio",
+      "title": "Audio",
+      "description": "Audio feature instructions",
+      "sidebar": "vachan"
+    },
+    "audioBible": {
+      "id": "audioBible",
+      "title": "Audio Bible",
+      "description": "Audio Bible feature instructions",
+      "sidebar": "vachan"
+    },
+    "bibleStories": {
+      "id": "bibleStories",
+      "title": "Bible Stories",
+      "description": "Bible Stories feature instructions",
+      "sidebar": "vachan"
+    },
+    "bookmarks": {
+      "id": "bookmarks",
+      "title": "Bookmarks",
+      "description": "Bookmarks feature instructions",
+      "sidebar": "vachan"
+    },
+    "commentary": {
+      "id": "commentary",
+      "title": "commentary",
+      "description": "Commentaries feature instructions",
+      "sidebar": "vachan"
+    },
+    "compare": {
+      "id": "compare",
+      "title": "Compare",
+      "description": "Compare Version feature instructions",
+      "sidebar": "vachan"
+    },
+    "dictionary": {
+      "id": "dictionary",
+      "title": "Dictionary",
+      "description": "Dictionary feature instructions",
+      "sidebar": "vachan"
+    },
+    "highlights": {
+      "id": "highlights",
+      "title": "Highlights",
+      "description": "Highlights feature instructions",
+      "sidebar": "vachan"
+    },
+    "history": {
+      "id": "history",
+      "title": "History",
+      "description": "History feature instructions",
+      "sidebar": "vachan"
+    },
+    "infographics": {
+      "id": "infographics",
+      "title": "Infographics",
+      "description": "Infographics feature instructions"
+    },
+    "Introduction": {
+      "id": "Introduction",
+      "title": "Introduction",
+      "description": "Website introduction",
+      "sidebar": "vachan"
+    },
+    "notes": {
+      "id": "notes",
+      "title": "Notes",
+      "description": "Notes feature instructions",
+      "sidebar": "vachan"
+    },
+    "parallelBible": {
+      "id": "parallelBible",
+      "title": "Parallel Bible",
+      "description": "Parallel Bible feature instructions",
+      "sidebar": "vachan"
+    },
+    "readBible": {
+      "id": "readBible",
+      "title": "Read Bible",
+      "description": "Bible Reading feature instructions",
+      "sidebar": "vachan"
+    },
+    "readingPlans": {
+      "id": "readingPlans",
+      "title": "Reading Plans",
+      "description": "Reading Plans feature instructions",
+      "sidebar": "vachan"
+    },
+    "searchBible": {
+      "id": "searchBible",
+      "title": "Search Bible",
+      "description": "Search Bible feature instructions",
+      "sidebar": "vachan"
+    },
+    "signIn": {
+      "id": "signIn",
+      "title": "Sign In",
+      "description": "Sign In instructions",
+      "sidebar": "vachan"
+    },
+    "signLanguageBible": {
+      "id": "signLanguageBible",
+      "title": "Sign Language Bible",
+      "description": "Sign Language Bible feature instructions",
+      "sidebar": "vachan"
+    },
+    "signOut": {
+      "id": "signOut",
+      "title": "Sign Out",
+      "description": "Sign Out instructions",
+      "sidebar": "vachan"
+    },
+    "signUp": {
+      "id": "signUp",
+      "title": "Sign Up",
+      "description": "Sign Up instructions",
+      "sidebar": "vachan"
+    },
+    "songs": {
+      "id": "songs",
+      "title": "Songs",
+      "description": "Songs feature instructions"
+    },
+    "studyBible": {
+      "id": "studyBible",
+      "title": "Study Bible",
+      "description": "Study Bible Reading feature instructions"
+    },
+    "videos": {
+      "id": "videos",
+      "title": "Videos",
+      "description": "Videos feature instructions",
+      "sidebar": "vachan"
+    },
+    "websiteNavigation": {
+      "id": "websiteNavigation",
+      "title": "websiteNavigation",
+      "description": "VachanOnline website navigation instructions",
+      "sidebar": "vachan"
+    }
+  }
+}

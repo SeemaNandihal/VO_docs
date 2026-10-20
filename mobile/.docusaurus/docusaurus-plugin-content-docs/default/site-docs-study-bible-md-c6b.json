@@ -1,0 +1,16 @@
+{
+  "unversionedId": "studyBible",
+  "id": "studyBible",
+  "title": "Study Bible",
+  "description": "Study Bible Reading feature instructions",
+  "source": "@site/docs/studyBible.md",
+  "sourceDirName": ".",
+  "slug": "/studyBible",
+  "permalink": "/studyBible",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Study Bible Reading feature instructions"
+  }
+}

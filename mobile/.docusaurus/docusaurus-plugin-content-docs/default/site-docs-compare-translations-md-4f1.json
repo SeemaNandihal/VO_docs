@@ -1,0 +1,25 @@
+{
+  "unversionedId": "compareTranslations",
+  "id": "compareTranslations",
+  "title": "Compare",
+  "description": "Compare Version feature instructions",
+  "source": "@site/docs/compareTranslations.md",
+  "sourceDirName": ".",
+  "slug": "/compareTranslations",
+  "permalink": "/compareTranslations",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Compare Version feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Commentaries",
+    "permalink": "/commentaries"
+  },
+  "next": {
+    "title": "Infographics",
+    "permalink": "/infographics"
+  }
+}

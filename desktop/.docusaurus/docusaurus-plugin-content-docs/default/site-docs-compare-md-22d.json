@@ -1,0 +1,25 @@
+{
+  "unversionedId": "compare",
+  "id": "compare",
+  "title": "Compare",
+  "description": "Compare Version feature instructions",
+  "source": "@site/docs/compare.md",
+  "sourceDirName": ".",
+  "slug": "/compare",
+  "permalink": "/compare",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Compare Version feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Bible Stories",
+    "permalink": "/bibleStories"
+  },
+  "next": {
+    "title": "User Login Features",
+    "permalink": "/category/user-login-features"
+  }
+}

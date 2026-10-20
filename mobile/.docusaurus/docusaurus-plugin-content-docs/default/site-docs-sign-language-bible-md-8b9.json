@@ -1,0 +1,25 @@
+{
+  "unversionedId": "signLanguageBible",
+  "id": "signLanguageBible",
+  "title": "Sign Language Bible",
+  "description": "Sign Language Bible feature instructions",
+  "source": "@site/docs/signLanguageBible.md",
+  "sourceDirName": ".",
+  "slug": "/signLanguageBible",
+  "permalink": "/signLanguageBible",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Sign Language Bible feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Audio",
+    "permalink": "/audio"
+  },
+  "next": {
+    "title": "Dictionary",
+    "permalink": "/dictionary"
+  }
+}

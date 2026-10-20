@@ -1,0 +1,776 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/seemanew/Git/VO_v3_docs/mobile/sidebars.js",
+          "contentPath": "/home/seemanew/Git/VO_v3_docs/mobile/docs",
+          "contentPathLocalized": "/home/seemanew/Git/VO_v3_docs/mobile/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "about",
+              "id": "about",
+              "title": "About",
+              "description": "Contact the vachan Online team using the email address provided",
+              "source": "@site/docs/about.md",
+              "sourceDirName": ".",
+              "slug": "/about",
+              "permalink": "/about",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Contact the vachan Online team using the email address provided"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Sign Out",
+                "permalink": "/signOut"
+              }
+            },
+            {
+              "unversionedId": "audio",
+              "id": "audio",
+              "title": "Audio",
+              "description": "Audio feature instructions",
+              "source": "@site/docs/audio.md",
+              "sourceDirName": ".",
+              "slug": "/audio",
+              "permalink": "/audio",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Audio feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Parallel Bible",
+                "permalink": "/parallelBible"
+              },
+              "next": {
+                "title": "Sign Language Bible",
+                "permalink": "/signLanguageBible"
+              }
+            },
+            {
+              "unversionedId": "audioBible",
+              "id": "audioBible",
+              "title": "Audio Bible",
+              "description": "Audio Bible feature instructions",
+              "source": "@site/docs/audioBible.md",
+              "sourceDirName": ".",
+              "slug": "/audioBible",
+              "permalink": "/audioBible",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Audio Bible feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Read Bible",
+                "permalink": "/readBible"
+              },
+              "next": {
+                "title": "Commentary",
+                "permalink": "/commentary"
+              }
+            },
+            {
+              "unversionedId": "bibleStories",
+              "id": "bibleStories",
+              "title": "Bible Stories",
+              "description": "Bible Stories feature instructions",
+              "source": "@site/docs/bibleStories.md",
+              "sourceDirName": ".",
+              "slug": "/bibleStories",
+              "permalink": "/bibleStories",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Bible Stories feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "History",
+                "permalink": "/history"
+              },
+              "next": {
+                "title": "Compare",
+                "permalink": "/compare"
+              }
+            },
+            {
+              "unversionedId": "bookmarks",
+              "id": "bookmarks",
+              "title": "Bookmarks",
+              "description": "Bookmarks feature instructions",
+              "source": "@site/docs/bookmarks.md",
+              "sourceDirName": ".",
+              "slug": "/bookmarks",
+              "permalink": "/bookmarks",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Bookmarks feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Sign In",
+                "permalink": "/signIn"
+              },
+              "next": {
+                "title": "Highlights",
+                "permalink": "/highlights"
+              }
+            },
+            {
+              "unversionedId": "commentary",
+              "id": "commentary",
+              "title": "Commentary",
+              "description": "Commentaries feature instructions",
+              "source": "@site/docs/commentary.md",
+              "sourceDirName": ".",
+              "slug": "/commentary",
+              "permalink": "/commentary",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Commentaries feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Audio Bible",
+                "permalink": "/audioBible"
+              },
+              "next": {
+                "title": "Parallel Bible",
+                "permalink": "/parallelBible"
+              }
+            },
+            {
+              "unversionedId": "compare",
+              "id": "compare",
+              "title": "Compare",
+              "description": "Compare Version feature instructions",
+              "source": "@site/docs/compare.md",
+              "sourceDirName": ".",
+              "slug": "/compare",
+              "permalink": "/compare",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Compare Version feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Bible Stories",
+                "permalink": "/bibleStories"
+              },
+              "next": {
+                "title": "User Login Features",
+                "permalink": "/category/user-login-features"
+              }
+            },
+            {
+              "unversionedId": "dictionary",
+              "id": "dictionary",
+              "title": "Dictionary",
+              "description": "Dictionaries feature instructions",
+              "source": "@site/docs/dictionary.md",
+              "sourceDirName": ".",
+              "slug": "/dictionary",
+              "permalink": "/dictionary",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Dictionaries feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Sign Language Bible",
+                "permalink": "/signLanguageBible"
+              },
+              "next": {
+                "title": "Videos",
+                "permalink": "/videos"
+              }
+            },
+            {
+              "unversionedId": "highlights",
+              "id": "highlights",
+              "title": "Highlights",
+              "description": "Highlights feature instructions",
+              "source": "@site/docs/highlights.md",
+              "sourceDirName": ".",
+              "slug": "/highlights",
+              "permalink": "/highlights",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Highlights feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Bookmarks",
+                "permalink": "/bookmarks"
+              },
+              "next": {
+                "title": "Notes",
+                "permalink": "/notes"
+              }
+            },
+            {
+              "unversionedId": "history",
+              "id": "history",
+              "title": "History",
+              "description": "History feature instructions",
+              "source": "@site/docs/history.md",
+              "sourceDirName": ".",
+              "slug": "/history",
+              "permalink": "/history",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "History feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Reading Plans",
+                "permalink": "/readingPlans"
+              },
+              "next": {
+                "title": "Bible Stories",
+                "permalink": "/bibleStories"
+              }
+            },
+            {
+              "unversionedId": "infographics",
+              "id": "infographics",
+              "title": "Infographics",
+              "description": "Infographics feature instructions",
+              "source": "@site/docs/infographics.md",
+              "sourceDirName": ".",
+              "slug": "/infographics",
+              "permalink": "/infographics",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Infographics feature instructions"
+              }
+            },
+            {
+              "unversionedId": "Introduction",
+              "id": "Introduction",
+              "title": "Introduction",
+              "description": "Website introduction",
+              "source": "@site/docs/Introduction.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Website introduction",
+                "slug": "/"
+              },
+              "sidebar": "vachan",
+              "next": {
+                "title": "Website Navigation",
+                "permalink": "/websiteNavigation"
+              }
+            },
+            {
+              "unversionedId": "notes",
+              "id": "notes",
+              "title": "Notes",
+              "description": "Notes feature instructions",
+              "source": "@site/docs/notes.md",
+              "sourceDirName": ".",
+              "slug": "/notes",
+              "permalink": "/notes",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Notes feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Highlights",
+                "permalink": "/highlights"
+              },
+              "next": {
+                "title": "Sign Out",
+                "permalink": "/signOut"
+              }
+            },
+            {
+              "unversionedId": "parallelBible",
+              "id": "parallelBible",
+              "title": "Parallel Bible",
+              "description": "parallel Bible feature instructions",
+              "source": "@site/docs/parallelBible.md",
+              "sourceDirName": ".",
+              "slug": "/parallelBible",
+              "permalink": "/parallelBible",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "parallel Bible feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Commentary",
+                "permalink": "/commentary"
+              },
+              "next": {
+                "title": "Audio",
+                "permalink": "/audio"
+              }
+            },
+            {
+              "unversionedId": "readBible",
+              "id": "readBible",
+              "title": "Read Bible",
+              "description": "Bible Reading feature instructions",
+              "source": "@site/docs/readBible.md",
+              "sourceDirName": ".",
+              "slug": "/readBible",
+              "permalink": "/readBible",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Bible Reading feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Features",
+                "permalink": "/category/features"
+              },
+              "next": {
+                "title": "Audio Bible",
+                "permalink": "/audioBible"
+              }
+            },
+            {
+              "unversionedId": "readingPlans",
+              "id": "readingPlans",
+              "title": "Reading Plans",
+              "description": "Reading Plans feature instructions",
+              "source": "@site/docs/readingPlans.md",
+              "sourceDirName": ".",
+              "slug": "/readingPlans",
+              "permalink": "/readingPlans",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Reading Plans feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Search Bible",
+                "permalink": "/searchBible"
+              },
+              "next": {
+                "title": "History",
+                "permalink": "/history"
+              }
+            },
+            {
+              "unversionedId": "searchBible",
+              "id": "searchBible",
+              "title": "Search Bible",
+              "description": "Search Bible feature instructions",
+              "source": "@site/docs/searchBible.md",
+              "sourceDirName": ".",
+              "slug": "/searchBible",
+              "permalink": "/searchBible",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Search Bible feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Videos",
+                "permalink": "/videos"
+              },
+              "next": {
+                "title": "Reading Plans",
+                "permalink": "/readingPlans"
+              }
+            },
+            {
+              "unversionedId": "signIn",
+              "id": "signIn",
+              "title": "Sign In",
+              "description": "Sign In instructions",
+              "source": "@site/docs/signIn.md",
+              "sourceDirName": ".",
+              "slug": "/signIn",
+              "permalink": "/signIn",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Sign In instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Sign Up",
+                "permalink": "/signUp"
+              },
+              "next": {
+                "title": "Bookmarks",
+                "permalink": "/bookmarks"
+              }
+            },
+            {
+              "unversionedId": "signLanguageBible",
+              "id": "signLanguageBible",
+              "title": "Sign Language Bible",
+              "description": "Sign Language Bible feature instructions",
+              "source": "@site/docs/signLanguageBible.md",
+              "sourceDirName": ".",
+              "slug": "/signLanguageBible",
+              "permalink": "/signLanguageBible",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Sign Language Bible feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Audio",
+                "permalink": "/audio"
+              },
+              "next": {
+                "title": "Dictionary",
+                "permalink": "/dictionary"
+              }
+            },
+            {
+              "unversionedId": "signOut",
+              "id": "signOut",
+              "title": "Sign Out",
+              "description": "Sign Out instructions",
+              "source": "@site/docs/signOut.md",
+              "sourceDirName": ".",
+              "slug": "/signOut",
+              "permalink": "/signOut",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Sign Out instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Notes",
+                "permalink": "/notes"
+              },
+              "next": {
+                "title": "About",
+                "permalink": "/about"
+              }
+            },
+            {
+              "unversionedId": "signUp",
+              "id": "signUp",
+              "title": "Sign Up",
+              "description": "Sign Up instructions",
+              "source": "@site/docs/signUp.md",
+              "sourceDirName": ".",
+              "slug": "/signUp",
+              "permalink": "/signUp",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Sign Up instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "User Login Features",
+                "permalink": "/category/user-login-features"
+              },
+              "next": {
+                "title": "Sign In",
+                "permalink": "/signIn"
+              }
+            },
+            {
+              "unversionedId": "songs",
+              "id": "songs",
+              "title": "Songs",
+              "description": "Songs feature instructions",
+              "source": "@site/docs/songs.md",
+              "sourceDirName": ".",
+              "slug": "/songs",
+              "permalink": "/songs",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Songs feature instructions"
+              }
+            },
+            {
+              "unversionedId": "studyBible",
+              "id": "studyBible",
+              "title": "Study Bible",
+              "description": "Study Bible Reading feature instructions",
+              "source": "@site/docs/studyBible.md",
+              "sourceDirName": ".",
+              "slug": "/studyBible",
+              "permalink": "/studyBible",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Study Bible Reading feature instructions"
+              }
+            },
+            {
+              "unversionedId": "videos",
+              "id": "videos",
+              "title": "Videos",
+              "description": "Videos feature instructions",
+              "source": "@site/docs/videos.md",
+              "sourceDirName": ".",
+              "slug": "/videos",
+              "permalink": "/videos",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "Videos feature instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Dictionary",
+                "permalink": "/dictionary"
+              },
+              "next": {
+                "title": "Search Bible",
+                "permalink": "/searchBible"
+              }
+            },
+            {
+              "unversionedId": "websiteNavigation",
+              "id": "websiteNavigation",
+              "title": "Website Navigation",
+              "description": "VachanOnline website navigation instructions",
+              "source": "@site/docs/websiteNavigation.md",
+              "sourceDirName": ".",
+              "slug": "/websiteNavigation",
+              "permalink": "/websiteNavigation",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "description": "VachanOnline website navigation instructions"
+              },
+              "sidebar": "vachan",
+              "previous": {
+                "title": "Introduction",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Features",
+                "permalink": "/category/features"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "vachan": [
+              {
+                "type": "doc",
+                "id": "Introduction"
+              },
+              {
+                "type": "doc",
+                "id": "websiteNavigation"
+              },
+              {
+                "type": "category",
+                "label": "Features",
+                "collapsed": false,
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/features",
+                  "permalink": "/category/features"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "readBible"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "audioBible"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Study Tools",
+                    "collapsed": false,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "commentary"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "parallelBible"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "audio"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "signLanguageBible"
+                      },
+                      {
+                        "type": "category",
+                        "label": "More Tools",
+                        "collapsed": false,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "id": "dictionary"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "videos"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "searchBible"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "readingPlans"
+                          },
+                          {
+                            "type": "doc",
+                            "id": "history"
+                          }
+                        ],
+                        "collapsible": true
+                      }
+                    ],
+                    "collapsible": true
+                  },
+                  {
+                    "type": "category",
+                    "label": "Quick Access",
+                    "collapsed": false,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "bibleStories"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "compare"
+                      }
+                    ],
+                    "collapsible": true
+                  }
+                ],
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "User Login Features",
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/user-login-features",
+                  "permalink": "/category/user-login-features"
+                },
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "signUp"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "signIn"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "bookmarks"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "highlights"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "notes"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "signOut"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "doc",
+                "id": "about"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

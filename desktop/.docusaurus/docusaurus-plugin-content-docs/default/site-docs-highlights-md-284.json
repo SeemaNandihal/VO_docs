@@ -1,0 +1,25 @@
+{
+  "unversionedId": "highlights",
+  "id": "highlights",
+  "title": "Highlights",
+  "description": "Highlights feature instructions",
+  "source": "@site/docs/highlights.md",
+  "sourceDirName": ".",
+  "slug": "/highlights",
+  "permalink": "/highlights",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Highlights feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Bookmarks",
+    "permalink": "/bookmarks"
+  },
+  "next": {
+    "title": "Notes",
+    "permalink": "/notes"
+  }
+}

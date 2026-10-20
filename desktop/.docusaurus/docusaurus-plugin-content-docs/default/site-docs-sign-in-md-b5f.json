@@ -1,0 +1,25 @@
+{
+  "unversionedId": "signIn",
+  "id": "signIn",
+  "title": "Sign In",
+  "description": "Sign In instructions",
+  "source": "@site/docs/signIn.md",
+  "sourceDirName": ".",
+  "slug": "/signIn",
+  "permalink": "/signIn",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Sign In instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Sign Up",
+    "permalink": "/signUp"
+  },
+  "next": {
+    "title": "Bookmarks",
+    "permalink": "/bookmarks"
+  }
+}

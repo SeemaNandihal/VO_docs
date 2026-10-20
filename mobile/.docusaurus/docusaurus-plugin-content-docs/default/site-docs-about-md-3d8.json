@@ -1,0 +1,21 @@
+{
+  "unversionedId": "about",
+  "id": "about",
+  "title": "About",
+  "description": "Contact the vachan Online team using the email address provided",
+  "source": "@site/docs/about.md",
+  "sourceDirName": ".",
+  "slug": "/about",
+  "permalink": "/about",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Contact the vachan Online team using the email address provided"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Sign Out",
+    "permalink": "/signOut"
+  }
+}

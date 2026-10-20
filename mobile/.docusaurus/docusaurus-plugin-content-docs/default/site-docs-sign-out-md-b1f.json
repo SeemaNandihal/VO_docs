@@ -1,0 +1,25 @@
+{
+  "unversionedId": "signOut",
+  "id": "signOut",
+  "title": "Sign Out",
+  "description": "Sign Out instructions",
+  "source": "@site/docs/signOut.md",
+  "sourceDirName": ".",
+  "slug": "/signOut",
+  "permalink": "/signOut",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Sign Out instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Notes",
+    "permalink": "/notes"
+  },
+  "next": {
+    "title": "About",
+    "permalink": "/about"
+  }
+}

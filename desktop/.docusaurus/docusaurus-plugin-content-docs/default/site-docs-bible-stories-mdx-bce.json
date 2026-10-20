@@ -1,0 +1,25 @@
+{
+  "unversionedId": "bibleStories",
+  "id": "bibleStories",
+  "title": "Bible Stories",
+  "description": "Bible Stories feature instructions",
+  "source": "@site/docs/bibleStories.mdx",
+  "sourceDirName": ".",
+  "slug": "/bibleStories",
+  "permalink": "/bibleStories",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Bible Stories feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "History",
+    "permalink": "/history"
+  },
+  "next": {
+    "title": "Compare",
+    "permalink": "/compare"
+  }
+}

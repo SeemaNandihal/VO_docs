@@ -1,0 +1,15 @@
+{
+  "title": "User Login Features ",
+  "slug": "/category/user-login-features-",
+  "permalink": "/category/user-login-features-",
+  "navigation": {
+    "previous": {
+      "title": "History",
+      "permalink": "/history"
+    },
+    "next": {
+      "title": "Sign Up",
+      "permalink": "/signUp"
+    }
+  }
+}

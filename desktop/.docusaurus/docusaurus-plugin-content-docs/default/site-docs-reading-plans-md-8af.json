@@ -1,0 +1,25 @@
+{
+  "unversionedId": "readingPlans",
+  "id": "readingPlans",
+  "title": "Reading Plans",
+  "description": "Reading Plans feature instructions",
+  "source": "@site/docs/readingPlans.md",
+  "sourceDirName": ".",
+  "slug": "/readingPlans",
+  "permalink": "/readingPlans",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Reading Plans feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Search Bible",
+    "permalink": "/searchBible"
+  },
+  "next": {
+    "title": "History",
+    "permalink": "/history"
+  }
+}

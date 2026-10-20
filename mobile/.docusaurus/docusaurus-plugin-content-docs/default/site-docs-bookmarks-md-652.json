@@ -1,0 +1,25 @@
+{
+  "unversionedId": "bookmarks",
+  "id": "bookmarks",
+  "title": "Bookmarks",
+  "description": "Bookmarks feature instructions",
+  "source": "@site/docs/bookmarks.md",
+  "sourceDirName": ".",
+  "slug": "/bookmarks",
+  "permalink": "/bookmarks",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Bookmarks feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Sign In",
+    "permalink": "/signIn"
+  },
+  "next": {
+    "title": "Highlights",
+    "permalink": "/highlights"
+  }
+}

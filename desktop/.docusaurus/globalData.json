@@ -1,0 +1,160 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "Introduction",
+          "docs": [
+            {
+              "id": "about",
+              "path": "/about",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "audio",
+              "path": "/audio",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "audioBible",
+              "path": "/audioBible",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "bibleStories",
+              "path": "/bibleStories",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "bookmarks",
+              "path": "/bookmarks",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "commentary",
+              "path": "/commentary",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "compare",
+              "path": "/compare",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "dictionary",
+              "path": "/dictionary",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "highlights",
+              "path": "/highlights",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "history",
+              "path": "/history",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "infographics",
+              "path": "/infographics"
+            },
+            {
+              "id": "Introduction",
+              "path": "/",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "notes",
+              "path": "/notes",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "parallelBible",
+              "path": "/parallelBible",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "readBible",
+              "path": "/readBible",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "readingPlans",
+              "path": "/readingPlans",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "searchBible",
+              "path": "/searchBible",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "signIn",
+              "path": "/signIn",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "signLanguageBible",
+              "path": "/signLanguageBible",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "signOut",
+              "path": "/signOut",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "signUp",
+              "path": "/signUp",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "songs",
+              "path": "/songs"
+            },
+            {
+              "id": "studyBible",
+              "path": "/studyBible"
+            },
+            {
+              "id": "videos",
+              "path": "/videos",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "websiteNavigation",
+              "path": "/websiteNavigation",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "/category/features",
+              "path": "/category/features",
+              "sidebar": "vachan"
+            },
+            {
+              "id": "/category/user-login-features",
+              "path": "/category/user-login-features",
+              "sidebar": "vachan"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "vachan": {
+              "link": {
+                "path": "/",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "blogs",
+  "id": "blogs",
+  "title": "Blogs",
+  "description": "Blogs feature instructions",
+  "source": "@site/docs/blogs.md",
+  "sourceDirName": ".",
+  "slug": "/blogs",
+  "permalink": "/blogs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Blogs feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Dictionaries",
+    "permalink": "/dictionaries"
+  },
+  "next": {
+    "title": "History",
+    "permalink": "/history"
+  }
+}

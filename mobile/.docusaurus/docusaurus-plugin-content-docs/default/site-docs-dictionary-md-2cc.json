@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dictionary",
+  "id": "dictionary",
+  "title": "Dictionary",
+  "description": "Dictionaries feature instructions",
+  "source": "@site/docs/dictionary.md",
+  "sourceDirName": ".",
+  "slug": "/dictionary",
+  "permalink": "/dictionary",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Dictionaries feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Sign Language Bible",
+    "permalink": "/signLanguageBible"
+  },
+  "next": {
+    "title": "Videos",
+    "permalink": "/videos"
+  }
+}

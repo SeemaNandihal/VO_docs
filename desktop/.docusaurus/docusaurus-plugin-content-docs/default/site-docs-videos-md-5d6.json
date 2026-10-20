@@ -1,0 +1,25 @@
+{
+  "unversionedId": "videos",
+  "id": "videos",
+  "title": "Videos",
+  "description": "Videos feature instructions",
+  "source": "@site/docs/videos.md",
+  "sourceDirName": ".",
+  "slug": "/videos",
+  "permalink": "/videos",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Videos feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Dictionary",
+    "permalink": "/dictionary"
+  },
+  "next": {
+    "title": "Search Bible",
+    "permalink": "/searchBible"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Introduction",
+  "id": "Introduction",
+  "title": "Introduction",
+  "description": "Website introduction",
+  "source": "@site/docs/Introduction.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Website introduction",
+    "slug": "/"
+  },
+  "sidebar": "vachan",
+  "next": {
+    "title": "Website Navigation",
+    "permalink": "/websiteNavigation"
+  }
+}

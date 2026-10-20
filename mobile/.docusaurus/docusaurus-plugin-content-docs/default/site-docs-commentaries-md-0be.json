@@ -1,0 +1,25 @@
+{
+  "unversionedId": "commentaries",
+  "id": "commentaries",
+  "title": "Commentaries",
+  "description": "Commentaries feature instructions",
+  "source": "@site/docs/commentaries.md",
+  "sourceDirName": ".",
+  "slug": "/commentaries",
+  "permalink": "/commentaries",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Commentaries feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Bible Stories",
+    "permalink": "/bibleStories"
+  },
+  "next": {
+    "title": "Compare",
+    "permalink": "/compareTranslations"
+  }
+}

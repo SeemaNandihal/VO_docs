@@ -1,0 +1,25 @@
+{
+  "unversionedId": "history",
+  "id": "history",
+  "title": "History",
+  "description": "History feature instructions",
+  "source": "@site/docs/history.md",
+  "sourceDirName": ".",
+  "slug": "/history",
+  "permalink": "/history",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "History feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Reading Plans",
+    "permalink": "/readingPlans"
+  },
+  "next": {
+    "title": "Bible Stories",
+    "permalink": "/bibleStories"
+  }
+}

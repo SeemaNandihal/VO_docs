@@ -1,0 +1,16 @@
+{
+  "unversionedId": "songs",
+  "id": "songs",
+  "title": "Songs",
+  "description": "Songs feature instructions",
+  "source": "@site/docs/songs.md",
+  "sourceDirName": ".",
+  "slug": "/songs",
+  "permalink": "/songs",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Songs feature instructions"
+  }
+}

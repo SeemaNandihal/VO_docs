@@ -1,0 +1,25 @@
+{
+  "unversionedId": "websiteNavigation",
+  "id": "websiteNavigation",
+  "title": "Website Navigation",
+  "description": "VachanOnline website navigation instructions",
+  "source": "@site/docs/websiteNavigation.md",
+  "sourceDirName": ".",
+  "slug": "/websiteNavigation",
+  "permalink": "/websiteNavigation",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "VachanOnline website navigation instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Features",
+    "permalink": "/category/features"
+  }
+}

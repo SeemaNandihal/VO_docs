@@ -1,0 +1,25 @@
+{
+  "unversionedId": "notes",
+  "id": "notes",
+  "title": "Notes",
+  "description": "Notes feature instructions",
+  "source": "@site/docs/notes.md",
+  "sourceDirName": ".",
+  "slug": "/notes",
+  "permalink": "/notes",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Notes feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Highlights",
+    "permalink": "/highlights"
+  },
+  "next": {
+    "title": "Sign Out",
+    "permalink": "/signOut"
+  }
+}

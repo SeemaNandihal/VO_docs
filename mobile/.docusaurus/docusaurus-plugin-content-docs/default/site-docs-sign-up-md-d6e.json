@@ -1,0 +1,25 @@
+{
+  "unversionedId": "signUp",
+  "id": "signUp",
+  "title": "Sign Up",
+  "description": "Sign Up instructions",
+  "source": "@site/docs/signUp.md",
+  "sourceDirName": ".",
+  "slug": "/signUp",
+  "permalink": "/signUp",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Sign Up instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "User Login Features",
+    "permalink": "/category/user-login-features"
+  },
+  "next": {
+    "title": "Sign In",
+    "permalink": "/signIn"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "infographics",
+  "id": "infographics",
+  "title": "Infographics",
+  "description": "Infographics feature instructions",
+  "source": "@site/docs/infographics.mdx",
+  "sourceDirName": ".",
+  "slug": "/infographics",
+  "permalink": "/infographics",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Infographics feature instructions"
+  }
+}

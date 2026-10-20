@@ -1,0 +1,25 @@
+{
+  "unversionedId": "commentary",
+  "id": "commentary",
+  "title": "commentary",
+  "description": "Commentaries feature instructions",
+  "source": "@site/docs/commentary.mdx",
+  "sourceDirName": ".",
+  "slug": "/commentary",
+  "permalink": "/commentary",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Commentaries feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Audio Bible",
+    "permalink": "/audioBible"
+  },
+  "next": {
+    "title": "Parallel Bible",
+    "permalink": "/parallelBible"
+  }
+}

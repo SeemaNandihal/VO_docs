@@ -1,0 +1,25 @@
+{
+  "unversionedId": "dictionaries",
+  "id": "dictionaries",
+  "title": "Dictionaries",
+  "description": "Dictionaries feature instructions",
+  "source": "@site/docs/dictionaries.md",
+  "sourceDirName": ".",
+  "slug": "/dictionaries",
+  "permalink": "/dictionaries",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Dictionaries feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Reading Plans",
+    "permalink": "/readingPlans"
+  },
+  "next": {
+    "title": "History",
+    "permalink": "/history"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "readBible",
+  "id": "readBible",
+  "title": "Read Bible",
+  "description": "Bible Reading feature instructions",
+  "source": "@site/docs/readBible.mdx",
+  "sourceDirName": ".",
+  "slug": "/readBible",
+  "permalink": "/readBible",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Bible Reading feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Features",
+    "permalink": "/category/features"
+  },
+  "next": {
+    "title": "Audio Bible",
+    "permalink": "/audioBible"
+  }
+}

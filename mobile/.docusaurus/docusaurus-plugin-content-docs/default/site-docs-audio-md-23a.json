@@ -1,0 +1,25 @@
+{
+  "unversionedId": "audio",
+  "id": "audio",
+  "title": "Audio",
+  "description": "Audio feature instructions",
+  "source": "@site/docs/audio.md",
+  "sourceDirName": ".",
+  "slug": "/audio",
+  "permalink": "/audio",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Audio feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Parallel Bible",
+    "permalink": "/parallelBible"
+  },
+  "next": {
+    "title": "Sign Language Bible",
+    "permalink": "/signLanguageBible"
+  }
+}

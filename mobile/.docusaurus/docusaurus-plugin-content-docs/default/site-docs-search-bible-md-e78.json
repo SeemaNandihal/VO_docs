@@ -1,0 +1,25 @@
+{
+  "unversionedId": "searchBible",
+  "id": "searchBible",
+  "title": "Search Bible",
+  "description": "Search Bible feature instructions",
+  "source": "@site/docs/searchBible.md",
+  "sourceDirName": ".",
+  "slug": "/searchBible",
+  "permalink": "/searchBible",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Search Bible feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Videos",
+    "permalink": "/videos"
+  },
+  "next": {
+    "title": "Reading Plans",
+    "permalink": "/readingPlans"
+  }
+}

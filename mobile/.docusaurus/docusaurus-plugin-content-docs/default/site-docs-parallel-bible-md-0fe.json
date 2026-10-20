@@ -1,0 +1,25 @@
+{
+  "unversionedId": "parallelBible",
+  "id": "parallelBible",
+  "title": "Parallel Bible",
+  "description": "parallel Bible feature instructions",
+  "source": "@site/docs/parallelBible.md",
+  "sourceDirName": ".",
+  "slug": "/parallelBible",
+  "permalink": "/parallelBible",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "parallel Bible feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Commentary",
+    "permalink": "/commentary"
+  },
+  "next": {
+    "title": "Audio",
+    "permalink": "/audio"
+  }
+}

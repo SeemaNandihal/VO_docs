@@ -1,0 +1,25 @@
+{
+  "unversionedId": "audioBible",
+  "id": "audioBible",
+  "title": "Audio Bible",
+  "description": "Audio Bible feature instructions",
+  "source": "@site/docs/audioBible.md",
+  "sourceDirName": ".",
+  "slug": "/audioBible",
+  "permalink": "/audioBible",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "description": "Audio Bible feature instructions"
+  },
+  "sidebar": "vachan",
+  "previous": {
+    "title": "Read Bible",
+    "permalink": "/readBible"
+  },
+  "next": {
+    "title": "Commentary",
+    "permalink": "/commentary"
+  }
+}

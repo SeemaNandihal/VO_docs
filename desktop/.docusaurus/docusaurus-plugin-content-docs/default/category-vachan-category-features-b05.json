@@ -1,0 +1,15 @@
+{
+  "title": "Features",
+  "slug": "/category/features",
+  "permalink": "/category/features",
+  "navigation": {
+    "previous": {
+      "title": "websiteNavigation",
+      "permalink": "/websiteNavigation"
+    },
+    "next": {
+      "title": "Read Bible",
+      "permalink": "/readBible"
+    }
+  }
+}
