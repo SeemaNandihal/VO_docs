@@ -84,11 +84,11 @@ const config = {
           //   position: "right",
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: "https://github.com/Bridgeconn/VachanOnline-v2",
-            label: "GitHub",
-            position: "right",
-          },
+          // {
+          //   href: "https://github.com/Bridgeconn/VachanOnline-v2",
+          //   label: "GitHub",
+          //   position: "right",
+          // },
         ],
       },
       // footer: {

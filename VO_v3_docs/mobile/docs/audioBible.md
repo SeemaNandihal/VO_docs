@@ -4,9 +4,7 @@ description: Audio Bible feature instructions
 
 # Audio Bible
 
-The Audio Bible's page is designed for languages that do not have a written script, allowing users to listen to Scripture through audio. 
-
-To access Oral Bibles, click the **Listen Audio (1)** button or select the **Audio card** on the landing page.
+To access Audio Bibles, click the **Listen Audio (1)** button or select the **Audio card** on the landing page.
 
 <img src="/img/assets/version3/audiobible.png"  width="400px" alt="audiobible" className="img-border"/>
 

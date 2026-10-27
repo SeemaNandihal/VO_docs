@@ -26,11 +26,11 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/seemanew/Git/VO_v3_docs/mobile/sidebars.js",
+          "sidebarPath": "/home/seemanew/Git/VO_v3_docs/VO_v3_docs/mobile/sidebars.js",
           "routeBasePath": "/"
         },
         "theme": {
-          "customCss": "/home/seemanew/Git/VO_v3_docs/mobile/src/css/custom.css"
+          "customCss": "/home/seemanew/Git/VO_v3_docs/VO_v3_docs/mobile/src/css/custom.css"
         }
       }
     ]
@@ -48,11 +48,6 @@ export default {
           "sidebarId": "vachan",
           "position": "left",
           "label": "Docs"
-        },
-        {
-          "href": "https://github.com/Bridgeconn/VachanOnline-v2",
-          "label": "GitHub",
-          "position": "right"
         }
       ],
       "hideOnScroll": false

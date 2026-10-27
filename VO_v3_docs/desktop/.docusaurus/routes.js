@@ -3,43 +3,8 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', 'd73'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', 'e87'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '4eb'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '904'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', 'c49'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '3e9'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '6a5'),
-    exact: true
-  },
-  {
     path: '/',
-    component: ComponentCreator('/', '74a'),
+    component: ComponentCreator('/', '22c'),
     routes: [
       {
         path: '/',
@@ -120,11 +85,6 @@ export default [
         sidebar: "vachan"
       },
       {
-        path: '/infographics',
-        component: ComponentCreator('/infographics', 'c26'),
-        exact: true
-      },
-      {
         path: '/notes',
         component: ComponentCreator('/notes', '1f6'),
         exact: true,
@@ -181,11 +141,6 @@ export default [
       {
         path: '/songs',
         component: ComponentCreator('/songs', '648'),
-        exact: true
-      },
-      {
-        path: '/studyBible',
-        component: ComponentCreator('/studyBible', '8c3'),
         exact: true
       },
       {

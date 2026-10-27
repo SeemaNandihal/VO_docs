@@ -1,7 +1,7 @@
 {
   "unversionedId": "readingPlans",
   "id": "readingPlans",
-  "title": "Reading Plans",
+  "title": "Reading Plan",
   "description": "Reading Plans feature instructions",
   "source": "@site/docs/readingPlans.md",
   "sourceDirName": ".",

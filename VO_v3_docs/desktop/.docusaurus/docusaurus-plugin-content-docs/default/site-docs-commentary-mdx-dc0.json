@@ -1,7 +1,7 @@
 {
   "unversionedId": "commentary",
   "id": "commentary",
-  "title": "commentary",
+  "title": "Commentary",
   "description": "Commentaries feature instructions",
   "source": "@site/docs/commentary.mdx",
   "sourceDirName": ".",

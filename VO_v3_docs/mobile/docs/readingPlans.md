@@ -2,67 +2,62 @@
 description: Reading Plans feature instructions
 ---
 
-# Reading Plans
+# Reading Plan
 
-1. On the Study Bible page, the user can access the M'Cheyne plan by clicking on the **Reading Plans** icon **(1)**. 
-<img src="/img/assets/readingplan.png"  width="500px" alt="readingplan" className="img-border"/>
+The M’Cheyne Reading Plan helps users follow a structured daily Bible reading schedule, with portions from the Old Testament and New Testament to read each day as part of their daily devotion.
 
-2. The user can select the Bible language and version from the drop-down menu **(2)**.
-3.  A list of readings for the current date and language **(3)** appears at the bottom pane. Users can utilize the calendar to adjust the date and select readings corresponding to that day.
+<img src="/img/assets/version3/readingplan.png"  width="400px" alt="readingplan" className="img-border"/>
 
-4. To read a chapter, the user must select the readings one by one from the list. The required Bible chapter appears on the top pane. 
+On the Read Bible page, users can access the M’Cheyne Reading Plan by clicking **Study Tools (1)** and selecting **More Tools (2)**. From the available options, select **Plans (3)** to navigate to the Reading Plans page.
 
-5. It is possible to read the entire Bible in a year with the M'Cheyne Reading Plan. 
+<img src="/img/assets/version3/readingplan2.png"  width="400px" alt="readingplan2" className="img-border"/>
 
-6. To exit the **Reading Plans** mode, the user can click the close button on the right **(4)**. 
 
-After the user **signs in**, they can initiate a Reading Plan by selecting the option to start one. This feature allows users to begin a structured reading schedule, helping them manage their Bible study more effectively.
+## Reading the Bible with the M’Cheyne Plan
 
-### Start a Reading Plan
+Access the reading plan through Study Tools on the Read Bible page. Select the required **Bible language (1)** and **book and chapter (2)** from the respective drop-down menus. The **list of readings (3)** for the current date will be displayed.
 
-- The user should sign in to Vachan Online account.
-- Go to the Study Bible page
-- Select reading plans **(1)**
+<img src="/img/assets/version3/readingplan3.png"  width="400px" alt="readingplan3" className="img-border"/>
 
-<img src="/img/assets/readplan.png"  width="300px" alt="readplan"/>
+To read a chapter, the user must select it from the list.
 
-- Click on **Start Plan (2)**
+The required Bible chapter appears on the top of the screen.
 
-<img src="/img/assets/readplan1.png"  width="300px" alt="readingplan2"/>
+It is possible to read the entire Bible in a year with the M'Cheyne Reading Plan.
 
-- Enter a name for their plan in the dialog box **(3)**
-- The user needs to choose the date on which they want to start the plan **(4)**
-- Click on **Start Plan** to begin **(5)**
 
-<img src="/img/assets/readplan2.png"  width="300px" alt="readingplan"/>
+## Start a Reading Plan
 
-- The reading progress will be tracked with a tick on the corresponding date each day **(6)**
+After **signing in**, users can start a Reading Plan by clicking **Start (1)**. This allows them to begin following a structured daily Bible reading schedule and track their progress through the plan.
 
-<img src="/img/assets/readplan3.png"  width="300px" alt="readingplan3"/>
+- **Sign in** to your Vachan Online.
+- Navigate to the Read Bible page.
+- Click Study Tools, select More Tools, and then choose Plans to access the Reading Plans.
+- Select the reading plan and click **Start Plan** to begin following the plan.
 
-### Delete a Plan
+<img src="/img/assets/version3/readingplan4.png"  width="400px" alt="readingplan4" className="img-border"/>
 
-- Go to the Reading Plans section on the Study Bible page
-- Locate the plan you want to delete
-- Click on the delete icon **(1)** next to the plan.
-- Confirm the deletion when the message "Are you sure you want to delete the - plan?" appears by selecting **Delete (2)**
+- Click **Start Plan (1)** to begin setting up your reading plan.
+- Enter a **name (2)** for your plan  and select a **start date (3)**.
+- Choose the date on which you want to begin the reading plan.
+- Click **Start Plan (4)** to activate the plan.
 
-<img src="/img/assets/readplan2.png"  width="300px" alt="readingplan"/>
+<img src="/img/assets/version3/readingplan5.png"  width="400px" alt="readingplan5" className="img-border"/>
 
-### Modify a Plan
+Your reading progress will be tracked with a tick mark on the corresponding date as you complete each day's **readings (5)**.
 
-- Go to the Reading Plans section and find the plan you wish to modify 
+<img src="/img/assets/version3/readingplan6.png"  width="400px" alt="readingplan5" className="img-border"/>
 
-<img src="/img/assets/modifyplan.png"  width="300px" alt="readingplan4"/>
+## Delete a Plan
 
-- Click on **Modify Plan (1)**
-- In the dialog box, select a new start date **(2)**
-- Click on **Start Plan (3)** to save your changes
+<img src="/img/assets/version3/readingplan7.png"  width="400px" alt="readingplan5" className="img-border"/>
 
-<img src="/img/assets/modifyplan1.png"  width="300px" alt="readingplan4"/>
+1. Click the **Delete Plan icon (1)** on the Reading Plans page.
+2. In the **confirmation dialog (2)**, enter Delete Plan in the text field to confirm the deletion.
+3. Click **Delete Plan (3)** to delete the active reading plan and all its progress.
 
-:::note
-Modify plan applies only to plans that have not yet started
+
+
 
 
 

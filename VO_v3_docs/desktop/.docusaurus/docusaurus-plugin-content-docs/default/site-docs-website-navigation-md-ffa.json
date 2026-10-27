@@ -1,8 +1,8 @@
 {
   "unversionedId": "websiteNavigation",
   "id": "websiteNavigation",
-  "title": "websiteNavigation",
-  "description": "VachanOnline website navigation instructions",
+  "title": "Website Navigation",
+  "description": "VachanOnline Website navigation instructions",
   "source": "@site/docs/websiteNavigation.md",
   "sourceDirName": ".",
   "slug": "/websiteNavigation",
@@ -11,7 +11,7 @@
   "tags": [],
   "version": "current",
   "frontMatter": {
-    "description": "VachanOnline website navigation instructions"
+    "description": "VachanOnline Website navigation instructions"
   },
   "sidebar": "vachan",
   "previous": {
