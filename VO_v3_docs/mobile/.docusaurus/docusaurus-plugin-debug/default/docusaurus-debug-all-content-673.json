@@ -264,22 +264,6 @@
               }
             },
             {
-              "unversionedId": "infographics",
-              "id": "infographics",
-              "title": "Infographics",
-              "description": "Infographics feature instructions",
-              "source": "@site/docs/infographics.md",
-              "sourceDirName": ".",
-              "slug": "/infographics",
-              "permalink": "/infographics",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "description": "Infographics feature instructions"
-              }
-            },
-            {
               "unversionedId": "Introduction",
               "id": "Introduction",
               "title": "Introduction",
@@ -540,22 +524,6 @@
               "version": "current",
               "frontMatter": {
                 "description": "Songs feature instructions"
-              }
-            },
-            {
-              "unversionedId": "studyBible",
-              "id": "studyBible",
-              "title": "Study Bible",
-              "description": "Study Bible Reading feature instructions",
-              "source": "@site/docs/studyBible.md",
-              "sourceDirName": ".",
-              "slug": "/studyBible",
-              "permalink": "/studyBible",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "description": "Study Bible Reading feature instructions"
               }
             },
             {
