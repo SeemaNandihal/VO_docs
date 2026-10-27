@@ -17,7 +17,7 @@
       },
       {
         "type": "link",
-        "label": "websiteNavigation",
+        "label": "Website Navigation",
         "href": "/websiteNavigation",
         "docId": "websiteNavigation"
       },
@@ -45,7 +45,7 @@
             "items": [
               {
                 "type": "link",
-                "label": "commentary",
+                "label": "Commentary",
                 "href": "/commentary",
                 "docId": "commentary"
               },
@@ -92,7 +92,7 @@
                   },
                   {
                     "type": "link",
-                    "label": "Reading Plans",
+                    "label": "Reading Plan",
                     "href": "/readingPlans",
                     "docId": "readingPlans"
                   },
@@ -218,7 +218,7 @@
     },
     "commentary": {
       "id": "commentary",
-      "title": "commentary",
+      "title": "Commentary",
       "description": "Commentaries feature instructions",
       "sidebar": "vachan"
     },
@@ -246,11 +246,6 @@
       "description": "History feature instructions",
       "sidebar": "vachan"
     },
-    "infographics": {
-      "id": "infographics",
-      "title": "Infographics",
-      "description": "Infographics feature instructions"
-    },
     "Introduction": {
       "id": "Introduction",
       "title": "Introduction",
@@ -277,7 +272,7 @@
     },
     "readingPlans": {
       "id": "readingPlans",
-      "title": "Reading Plans",
+      "title": "Reading Plan",
       "description": "Reading Plans feature instructions",
       "sidebar": "vachan"
     },
@@ -316,11 +311,6 @@
       "title": "Songs",
       "description": "Songs feature instructions"
     },
-    "studyBible": {
-      "id": "studyBible",
-      "title": "Study Bible",
-      "description": "Study Bible Reading feature instructions"
-    },
     "videos": {
       "id": "videos",
       "title": "Videos",
@@ -329,8 +319,8 @@
     },
     "websiteNavigation": {
       "id": "websiteNavigation",
-      "title": "websiteNavigation",
-      "description": "VachanOnline website navigation instructions",
+      "title": "Website Navigation",
+      "description": "VachanOnline Website navigation instructions",
       "sidebar": "vachan"
     }
   }

@@ -92,7 +92,7 @@
                   },
                   {
                     "type": "link",
-                    "label": "Reading Plans",
+                    "label": "Reading Plan",
                     "href": "/readingPlans",
                     "docId": "readingPlans"
                   },
@@ -246,11 +246,6 @@
       "description": "History feature instructions",
       "sidebar": "vachan"
     },
-    "infographics": {
-      "id": "infographics",
-      "title": "Infographics",
-      "description": "Infographics feature instructions"
-    },
     "Introduction": {
       "id": "Introduction",
       "title": "Introduction",
@@ -277,7 +272,7 @@
     },
     "readingPlans": {
       "id": "readingPlans",
-      "title": "Reading Plans",
+      "title": "Reading Plan",
       "description": "Reading Plans feature instructions",
       "sidebar": "vachan"
     },
@@ -315,11 +310,6 @@
       "id": "songs",
       "title": "Songs",
       "description": "Songs feature instructions"
-    },
-    "studyBible": {
-      "id": "studyBible",
-      "title": "Study Bible",
-      "description": "Study Bible Reading feature instructions"
     },
     "videos": {
       "id": "videos",

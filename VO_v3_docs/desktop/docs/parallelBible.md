@@ -6,7 +6,7 @@ description: Parallel Bible feature instructions
 
 The Parallel Bible feature allows you to read and compare two Bible versions simultaneously.
 
--To access the Parallel Bible, click Study Tools on the Read Bible page and select the **Parallel Bible (1)**.
+To access the Parallel Bible, click Study Tools on the Read Bible page and select the **Parallel Bible (1)**.
 
 <img src="/img/assets/Versionv3/parallelbible1.png" width="1000px" alt="parallelbible" />
 

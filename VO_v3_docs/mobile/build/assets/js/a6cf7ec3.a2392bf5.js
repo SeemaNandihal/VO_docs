@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkvachan_online_mobile_user_manual=globalThis.webpackChunkvachan_online_mobile_user_manual||[]).push([[771],{1966:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

@@ -6,7 +6,7 @@ description: Bookmarks feature instructions
 
 The users must be **Signed In** to **(1)** VachanOnline.com to bookmark a chapter. ( [See how to Sign In](./signIn) )
 
-The Langauage **(2)** and book **(3)**  should be selected from the drop-down. The User can click the **Bookmarks** icon **(4)** while reading the Bible from the reading pane.
+The Language **(2)** and book **(3)**  should be selected from the drop-down. The User can click the **Bookmarks** icon **(4)** while reading the Bible from the reading pane.
 
 The chapter will be bookmarked for future reference. The Bookmarks icon **(4)** changes to black, once the chapter has been bookmarked.
 

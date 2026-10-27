@@ -30,7 +30,7 @@ The platform includes the following features:
 
 7. [Search](./searchBible) – Search for specific verses, words, or passages across the Bible. 
 
-8. [Reading Plan](./readingPlan) – Follow structured reading plans to build a consistent Bible-reading habit. 
+8. [Reading Plan](./readingPlans) – Follow structured reading plans to build a consistent Bible-reading habit. 
 
 9. [Bible Stories](./bibleStories) – Discover Bible stories presented in an easy-to-understand format.
 

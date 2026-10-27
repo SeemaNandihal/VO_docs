@@ -6,7 +6,7 @@ description: Highlights feature instructions
 
 The users must have **Signed In** to **(1)** VachanOnline.com to use the **Highlights** feature. ( [See how to Sign In](./signIn) )
 
-The user can select the Bible Languag  **(2)**, Bible book and chapter **(3)**by using the drop-down.
+The user can select the Bible Language  **(2)**, Bible book and chapter **(3)**by using the drop-down.
 
 The user can click on any verse they want to highlight **(4)** and then select Highlights **(5)** and highlight using any of the available colors. 
 

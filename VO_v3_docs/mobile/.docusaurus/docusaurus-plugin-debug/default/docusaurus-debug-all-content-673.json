@@ -13,9 +13,9 @@
           "tagsPath": "/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/seemanew/Git/VO_v3_docs/mobile/sidebars.js",
-          "contentPath": "/home/seemanew/Git/VO_v3_docs/mobile/docs",
-          "contentPathLocalized": "/home/seemanew/Git/VO_v3_docs/mobile/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/seemanew/Git/VO_v3_docs/VO_v3_docs/mobile/sidebars.js",
+          "contentPath": "/home/seemanew/Git/VO_v3_docs/VO_v3_docs/mobile/docs",
+          "contentPathLocalized": "/home/seemanew/Git/VO_v3_docs/VO_v3_docs/mobile/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "about",
@@ -255,7 +255,7 @@
               },
               "sidebar": "vachan",
               "previous": {
-                "title": "Reading Plans",
+                "title": "Reading Plan",
                 "permalink": "/readingPlans"
               },
               "next": {
@@ -379,7 +379,7 @@
             {
               "unversionedId": "readingPlans",
               "id": "readingPlans",
-              "title": "Reading Plans",
+              "title": "Reading Plan",
               "description": "Reading Plans feature instructions",
               "source": "@site/docs/readingPlans.md",
               "sourceDirName": ".",
@@ -422,7 +422,7 @@
                 "permalink": "/videos"
               },
               "next": {
-                "title": "Reading Plans",
+                "title": "Reading Plan",
                 "permalink": "/readingPlans"
               }
             },

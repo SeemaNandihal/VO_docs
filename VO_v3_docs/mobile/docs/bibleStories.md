@@ -35,7 +35,7 @@ Bible stories are now available in Indian sign language.
 
 <img src="/img/assets/version3/biblestories1.png"  width="400px" alt="biblestories1" className="img-border"/>
 
-4. The user has the option to adjust the font size by clicking on three dots icon **(4)**
+4. The user has the option to adjust the font size by clicking fonts icon **(4)**
 
 <img src="/img/assets/version3/biblestories2.png"  width="400px" alt="biblestories2" className="img-border"/>
 

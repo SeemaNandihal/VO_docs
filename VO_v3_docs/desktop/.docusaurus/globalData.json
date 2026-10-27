@@ -61,10 +61,6 @@
               "sidebar": "vachan"
             },
             {
-              "id": "infographics",
-              "path": "/infographics"
-            },
-            {
               "id": "Introduction",
               "path": "/",
               "sidebar": "vachan"
@@ -117,10 +113,6 @@
             {
               "id": "songs",
               "path": "/songs"
-            },
-            {
-              "id": "studyBible",
-              "path": "/studyBible"
             },
             {
               "id": "videos",

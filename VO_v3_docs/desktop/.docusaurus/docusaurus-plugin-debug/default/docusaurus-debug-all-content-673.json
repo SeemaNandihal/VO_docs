@@ -13,9 +13,9 @@
           "tagsPath": "/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/home/seemanew/Git/VO_v3_docs/desktop/sidebars.js",
-          "contentPath": "/home/seemanew/Git/VO_v3_docs/desktop/docs",
-          "contentPathLocalized": "/home/seemanew/Git/VO_v3_docs/desktop/i18n/en/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/home/seemanew/Git/VO_v3_docs/VO_v3_docs/desktop/sidebars.js",
+          "contentPath": "/home/seemanew/Git/VO_v3_docs/VO_v3_docs/desktop/docs",
+          "contentPathLocalized": "/home/seemanew/Git/VO_v3_docs/VO_v3_docs/desktop/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
               "unversionedId": "about",
@@ -84,7 +84,7 @@
                 "permalink": "/readBible"
               },
               "next": {
-                "title": "commentary",
+                "title": "Commentary",
                 "permalink": "/commentary"
               }
             },
@@ -141,7 +141,7 @@
             {
               "unversionedId": "commentary",
               "id": "commentary",
-              "title": "commentary",
+              "title": "Commentary",
               "description": "Commentaries feature instructions",
               "source": "@site/docs/commentary.mdx",
               "sourceDirName": ".",
@@ -255,28 +255,12 @@
               },
               "sidebar": "vachan",
               "previous": {
-                "title": "Reading Plans",
+                "title": "Reading Plan",
                 "permalink": "/readingPlans"
               },
               "next": {
                 "title": "Bible Stories",
                 "permalink": "/bibleStories"
-              }
-            },
-            {
-              "unversionedId": "infographics",
-              "id": "infographics",
-              "title": "Infographics",
-              "description": "Infographics feature instructions",
-              "source": "@site/docs/infographics.mdx",
-              "sourceDirName": ".",
-              "slug": "/infographics",
-              "permalink": "/infographics",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "description": "Infographics feature instructions"
               }
             },
             {
@@ -297,7 +281,7 @@
               },
               "sidebar": "vachan",
               "next": {
-                "title": "websiteNavigation",
+                "title": "Website Navigation",
                 "permalink": "/websiteNavigation"
               }
             },
@@ -343,7 +327,7 @@
               },
               "sidebar": "vachan",
               "previous": {
-                "title": "commentary",
+                "title": "Commentary",
                 "permalink": "/commentary"
               },
               "next": {
@@ -379,7 +363,7 @@
             {
               "unversionedId": "readingPlans",
               "id": "readingPlans",
-              "title": "Reading Plans",
+              "title": "Reading Plan",
               "description": "Reading Plans feature instructions",
               "source": "@site/docs/readingPlans.md",
               "sourceDirName": ".",
@@ -422,7 +406,7 @@
                 "permalink": "/videos"
               },
               "next": {
-                "title": "Reading Plans",
+                "title": "Reading Plan",
                 "permalink": "/readingPlans"
               }
             },
@@ -543,22 +527,6 @@
               }
             },
             {
-              "unversionedId": "studyBible",
-              "id": "studyBible",
-              "title": "Study Bible",
-              "description": "Study Bible Reading feature instructions",
-              "source": "@site/docs/studyBible.mdx",
-              "sourceDirName": ".",
-              "slug": "/studyBible",
-              "permalink": "/studyBible",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "frontMatter": {
-                "description": "Study Bible Reading feature instructions"
-              }
-            },
-            {
               "unversionedId": "videos",
               "id": "videos",
               "title": "Videos",
@@ -586,8 +554,8 @@
             {
               "unversionedId": "websiteNavigation",
               "id": "websiteNavigation",
-              "title": "websiteNavigation",
-              "description": "VachanOnline website navigation instructions",
+              "title": "Website Navigation",
+              "description": "VachanOnline Website navigation instructions",
               "source": "@site/docs/websiteNavigation.md",
               "sourceDirName": ".",
               "slug": "/websiteNavigation",
@@ -596,7 +564,7 @@
               "tags": [],
               "version": "current",
               "frontMatter": {
-                "description": "VachanOnline website navigation instructions"
+                "description": "VachanOnline Website navigation instructions"
               },
               "sidebar": "vachan",
               "previous": {

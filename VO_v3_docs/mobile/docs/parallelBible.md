@@ -18,7 +18,7 @@ The Parallel Bible feature allows you to read and compare two Bible versions sim
 
 - The Parallel Bible automatically synchronizes the book, chapter, and scroll position, when available.
 
-- To read the two Bible versions independently, click the **Parallel Scroll icon (5)** in the middle of the page to disable synchronization.
+- To read the two Bible versions independently, click the **Parallel Scroll icon (5)** in the top of the page to disable synchronization.
 
 - If no book is available in the parallel pane, Parallel Scroll is disabled and a warning message is displayed.
 
